@@ -7,3 +7,13 @@ do we need an handwritten explanation of what sample space or pebble world is?
 idk let's see, depend on my energy level
 thnks!
 bye!
+
+additional yap
+an another thing, currently i'm studying gaussian distributive function in stats 110.
+you see i'm not totally a beginner who's just learning what sample space is?
+its just i got the idea of this lab notebook ... like 30 minutes ago so yeah
+that why, i thought lets start from scratch
+also its my first time coding probabililty concepts, i mostly work with models but i never coded any probability functn, this is like extreme stratch, its may feel a bit overwhelming later, but its really fun to implement these codes
+
+that's all! 
+thnks!
