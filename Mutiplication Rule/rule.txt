@@ -1,0 +1,13 @@
+Consider a compound experiment consisting
+of two sub-experiments, Experiment A and Experiment B.
+Suppose that Experiment A has a possible outcomes, and for each of those outcomes Experiment B has b
+possible outcomes. 
+Then the compound experiment has ab possible outcomes.
+To see why the multiplication rule is true, imagine a tree diagram as in Figure 1.2.
+
+Let the tree branch a ways according to the possibilities for Experiment A, and for
+each of those branches create b further branches for Experiment B. Overall, there
+are b +b+···+b
+=ab possibilities
+
+these lines are taken from book Introduction to Probability
